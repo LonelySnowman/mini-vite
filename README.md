@@ -7,6 +7,7 @@ Vite 原理学习项目，实现简易 Vite 及其相关工具链，并搭配相
 - 实现类 Rollup 插件机制 ✅
   - 支持 resolveId load transform transformIndexHtml 钩子
 - 实现 Hot Mod 热模块更新 🚀
+- 相关搭建教程 🚀
 
 ## Vite 架构
 
